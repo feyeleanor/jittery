@@ -1,0 +1,2 @@
+== Disclaimer ==
+The JITTERY package makes use of Go's panic/recover mechanism in a manner which is decidely un-goish.
