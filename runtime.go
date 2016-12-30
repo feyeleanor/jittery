@@ -1,4 +1,4 @@
-package raw
+package jittery
 
 func Throw() {
 	panic(nil)
